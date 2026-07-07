@@ -1,0 +1,24 @@
+# Core NLP Libraries
+nltk==3.8.1
+spacy==3.7.2
+scikit-learn==1.4.0
+numpy==1.26.3
+pandas==2.2.0
+
+# Word Embeddings
+gensim==4.3.2
+
+# Azure OpenAI
+openai==1.12.0
+python-dotenv==1.0.0
+
+# Additional utilities
+matplotlib==3.8.2
+seaborn==0.13.1
+jupyter==1.0.0
+
+# For advanced exercises
+transformers==4.37.2
+torch==2.1.2
+rank-bm25==0.2.2
+faiss-cpu==1.7.4
